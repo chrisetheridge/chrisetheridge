@@ -24,6 +24,10 @@ I tend to think of myself as a Polyglot, but I have the most experience woth:
 - [File Hooks](https://github.com/chrisetheridge/pi-extension-filehooks) - Run commands based on file changes in Pi
 - [My Little Pi](https://github.com/chrisetheridge/my-little-pi) - Various small extensions and skills that I frequently use
 
+### AI
+
+- [Skills](https://github.com/chrisetheridge/skills) - my personal skills that I use daily
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/chrisetheridge)
