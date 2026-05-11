@@ -22,7 +22,7 @@ I tend to think of myself as a Polyglot, but I have the most experience woth:
 
 - [LM Studio for Pi](https://github.com/chrisetheridge/pi-extension-lmstudio) - Adds better support for LM Studio models to Pi
 - [File Hooks](https://github.com/chrisetheridge/pi-extension-filehooks) - Run commands based on file changes in Pi
-- [My Little Pi](https://github.com/chrisetheridge/my-little-pi) - Various small extensions and skills that I frequently use
+- [My Little Pi](https://github.com/chrisetheridge/my-little-pi) - Various small extensions for Pi
 
 ### AI
 
