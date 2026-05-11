@@ -36,3 +36,4 @@ I tend to think of myself as a Polyglot, but I have the most experience woth:
 
 - [LinkedIn](https://nl.linkedin.com/in/chris-etheridge-b7b59093)
 - [Github](https://github.com/chrisetheridge)
+- [Email](mailto:chrismetheridge@gmail.com)
