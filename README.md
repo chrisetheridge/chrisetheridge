@@ -8,7 +8,7 @@ I'm also trying to write more on my [blog](https://blog.27dogs.org/).
 
 ## Languages
 
-I tend to think of myself as a Polyglot, but I'm experienced in:
+I tend to think of myself as a polyglot, but I'm experienced in:
 
 - Java
 - Clojure
