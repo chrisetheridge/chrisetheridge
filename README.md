@@ -18,6 +18,10 @@ I tend to think of myself as a polyglot, but I'm experienced in:
 
 ## Projects
 
+### Agents
+
+- [Papercuts](https://github.com/chrisetheridge/papercuts) - Let agents log issues as they encounter them, resolve them from an OSX menubar app
+
 ### Pi Extensions
 
 - [Pi Review Mode](https://github.com/chrisetheridge/pi-review-mode) - Adds a web-based review workflow to Pi
