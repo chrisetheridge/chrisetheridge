@@ -22,6 +22,10 @@ I tend to think of myself as a polyglot, but I'm experienced in:
 
 - [Papercuts](https://github.com/chrisetheridge/papercuts) - Let agents log issues as they encounter them, resolve them from an OSX menubar app
 
+### CLIs 
+
+- [Cockpit](https://github.com/chrisetheridge/cockpit) - Plane work item/issue management CLI, focused on Agent UX.
+
 ### Pi Extensions
 
 - [Pi Review Mode](https://github.com/chrisetheridge/pi-review-mode) - Adds a web-based review workflow to Pi
