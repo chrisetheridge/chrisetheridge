@@ -21,6 +21,7 @@ I tend to think of myself as a polyglot, but I'm experienced in:
 ### Agents
 
 - [Papercuts](https://github.com/chrisetheridge/papercuts) - Let agents log issues as they encounter them, resolve them from an OSX menubar app
+- [Omarchy OpenCode Watcher](https://github.com/chrisetheridge/omarchy-plugin-opencode-watcher) - Watch OpenCode sesions from your Omarchy bar
 
 ### CLIs 
 
@@ -36,10 +37,6 @@ I tend to think of myself as a polyglot, but I'm experienced in:
 ### AI
 
 - [Skills](https://github.com/chrisetheridge/skills) - my personal skills that I use daily
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/chrisetheridge)
 
 ## Connect with me
 
